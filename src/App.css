@@ -55,3 +55,14 @@ body {
   color: #fff;
   font-size: 2.5rem;
 }
+
+.author {
+  text-align: center;
+  margin-top: 15px;
+}
+
+.linkPro {
+  text-decoration: none;
+  color: #00264d;
+  line-height: 26px;
+}
